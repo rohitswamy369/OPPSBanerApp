@@ -1,5 +1,5 @@
 package src;
-public class UC7 {
+gitpublic class UC7 {
 
     // Static Inner Class to store Character and its Pattern
     static class CharacterPatternMap {
